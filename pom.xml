@@ -12,7 +12,6 @@
 	<properties>
 		<versao.postgre>42.2.1</versao.postgre>
 		<hikari.version>3.2.0</hikari.version>
-<!--		<cf-sip.version>1.0.0-SNAPSHOT</cf-sip.version>-->
 		<property.maven-release-plugin.version>2.5.2</property.maven-release-plugin.version>
 		<java.version>1.8</java.version>
 
